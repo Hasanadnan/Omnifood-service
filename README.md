@@ -4,4 +4,6 @@ Project Name: Omnifood Online food Service
 
 Language: Html, CSS
 
-Framework: jQuery 
+Framework: jQuery (plugin Name: waypoint)
+
+
